@@ -7,7 +7,7 @@
 main{
     width: 100vw;
     height: 100vh;
-    background-color: rgba(187, 142, 238, 0.767);
+    background-color: rgba(148, 110, 192, 0.767);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -15,14 +15,14 @@ main{
 }
 
 .content img{
-    width: 400px;
+    width: 250px;
     height: fit-content;
 }
 
 .content {
     background-color: rgb(255, 255, 255);
-    padding: 30px;
-    border-radius: 30px;
+    padding: 20px;
+    border-radius: 20px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -31,7 +31,7 @@ main{
 
 }
 h1{
-    color:rgba(187, 142, 238, 0.767);
+    color:rgba(148, 110, 192, 0.767);
     text-transform: uppercase;
     font-family: Georgia, 'Times New Roman', Times, serif;
 
@@ -39,19 +39,19 @@ h1{
 }
 
 #not{
-    background-color: rgb(233, 69, 69);
+    background-color:rgba(131, 95, 172, 0.767);
     border: none;
     width: 80px;
     height: 30px;
     border-radius: 10px;
-    color: rgb(255, 255, 255);
+    color: rgb(222, 211, 255);
 }
 
 #yes{
-    background-color: rgb(125, 241, 135);
+    background-color: rgba(131, 95, 172, 0.767);
     border: none;
     width: 80px;
     height: 30px;
     border-radius: 10px;
-    color: rgb(255, 255, 255);
+    color: rgb(222, 211, 255);
 }
